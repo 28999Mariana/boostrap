@@ -1,0 +1,51 @@
+form{
+    width: 300px;
+    height: 350px;
+    background-color: rgb(247, 7, 195);
+    color:white;
+    border-radius: 15px;
+    font-family: sans-serif;
+    font-size: 15px;
+    padding: 2%;
+    margin:10%;;
+    
+}
+.envelope{
+    font-size: 70px;
+    color:white;
+    padding-left: 40%;
+}
+
+
+
+ form input{
+    border-top: 0;
+    border-left: 0;
+    border-right: 0;
+    border-radius: 10px;
+    border-bottom: 2px solid white;
+    margin:3px;
+    width: 300px;
+    height: 1px;
+}
+
+.form-check-input{
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    border-color: white;
+}
+
+button{
+    color: white;
+    font-weight: 5%;
+    background-color: rgb(158, 161, 163);
+    border-color: white;
+    width: 310px;
+    height: 30px;
+    font-size: 15px;
+    font-family: sans-serif;
+    border-radius: 10px;
+    
+}
+    
